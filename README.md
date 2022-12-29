@@ -33,7 +33,7 @@ Hi,I'm Rana Soyak✨, a Web Developer, Creative Problem Solver and Coffee Enthus
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
 - ⚡ Check out my recent [Blogs]() 
-- 📝[Portfolio](https://www.linkedin.com/in/ranasoyakcodes/)(https://ranasoyakcodes.dev/)
+- 📝[LinkedIn Page](https://www.linkedin.com/in/ranasoyakcodes/)[Personal Portfolio](https://ranasoyakcodes.dev/)
 - 😄 Pronouns: She / Her 
 - ⚡ Fun fact: A growing F1 Fan 🏎️ and world explorer through food🍜, love outdoors 🚶🏽‍♀️🍃  and I can eat around 4 pounds of tomato a day without every getting tired of it 🍅.
 
