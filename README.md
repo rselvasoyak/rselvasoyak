@@ -6,9 +6,6 @@
 <a href="https://www.linkedin.com/in/ranasoyakcodes/">
 <img align="left" alt="Rana Selva Soyak" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://medium.com/@rselvasoyak">
-<img align="left" alt="Rana Selva Soyak" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
 <a href="https://www.instagram.com/ranacodes">
 <img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
