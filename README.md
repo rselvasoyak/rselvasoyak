@@ -21,8 +21,7 @@ Hi,I'm Rana Soyak✨, a Web Developer, Creative Problem Solver and Coffee Enthus
 
 **Talking about Personal Stuffs:**
 
-- 🇹🇷☕From Turkey, with a passion for Turkish Coffee.
--🔭 I’m currently student at Juno College of Technology
+-🔭 Graduated from Juno College of Technology in 2023 February. 
 - 👓Former Psychology and Sociology student with experience in Retail Management. 
 - 🌱 I’m currently learning JavaScript, React.js and Python.
 - 👯 Part of Developer Community.
