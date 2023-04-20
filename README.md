@@ -22,6 +22,38 @@
 		<path d="M 1378.05 111 L 1363.95 111 L 1332.6 36.6 L 1344.9 31.5 L 1371.45 95.7 L 1398 31.5 L 1409.55 36.6 L 1378.05 111 Z" id="17" vector-effect="non-scaling-stroke"/>
 	</g>
 </svg>
+     /* Google chrome */
+      @-webkit-keyframes svg-text-anim {
+       40% {
+          stroke-dashoffset: 0;
+          fill: transparent;
+        }
+        60% {
+          stroke-dashoffset: 0;
+          fill: #400040;
+        }
+        100% {
+          stroke-dashoffset: 0;
+          fill: #400040;
+        }
+        
+    }
+    /* Most browsers */
+    @keyframes svg-text-anim {
+       40% {
+          stroke-dashoffset: 0;
+          fill: transparent;
+        }
+        60% {
+          stroke-dashoffset: 0;
+          fill: #400040;
+        }
+        100% {
+          stroke-dashoffset: 0;
+          fill: #400040;
+        }
+        
+    }
 
 <br/>
 
