@@ -2,6 +2,9 @@
 
 <br/>
 
+<p align="center">
+ <img src="URL_TO_YOUR_IMAGE_OR_GIF" width="100" height="100" />
+</p>
 
 <a href="https://www.linkedin.com/in/ranasoyakcodes/">
 <img align="left" alt="Rana Selva Soyak" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -37,6 +40,7 @@ Hi,I'm Rana Soyak✨, a Web Developer, Creative Problem Solver and Coffee Enthus
 **Community**
 - CodeWars 
 - Juno College 
+- Chingu 
 
 **Languages and Tools:**
 
