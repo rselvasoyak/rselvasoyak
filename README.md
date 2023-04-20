@@ -1,7 +1,6 @@
 ### Hello World 👋 It's [Rana!](https://ranasoyakcodes.dev/)
 
 <br/>
-file:///C:/Users/14rss/Downloads/ranasoyakcodes.dev-animation(1).html
 
 <a href="https://www.linkedin.com/in/ranasoyakcodes/">
 <img align="left" alt="Rana Selva Soyak" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
