@@ -12,7 +12,7 @@
 
 <br />
 
-Hi,I'm Rana Soyak✨, a Web Developer, Creative Problem Solver and Coffee Enthusiast. Apart from that I love getting involved in Responsive, Accessible Web Desing and being a lifelong learner.❤✌
+Hi,I'm Rana Soyak✨, a Web Developer working at Sun Life Canada, Creative Problem Solver and Coffee Enthusiast. Apart from that I love getting involved in Responsive, Accessible Web Desing and being a lifelong learner.❤✌
 
 
 <img align="right" margin-left=2px alt="GIF" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" />
